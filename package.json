@@ -1,6 +1,6 @@
 {
   "name": "@npmmaintea/cautious-waddle",
-  "version": "11.51.430",
+  "version": "11.52.430",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -272,5 +272,5 @@
   "bugs": {
     "url": "https://github.com/npmmaintea/cautious-waddle/issues"
   },
-  "packageManager": "yarn@4.9.3"
+  "packageManager": "yarn@4.9.4"
 }
